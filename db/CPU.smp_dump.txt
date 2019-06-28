@@ -1,0 +1,7 @@
+
+State Machine - |Top|Proc:Processor|ControlUnit:control_unit|present_state
+Name present_state.cycle3 present_state.cycle2 present_state.cycle1 present_state.fetch 
+present_state.fetch 0 0 0 0 
+present_state.cycle1 0 0 1 1 
+present_state.cycle2 0 1 0 1 
+present_state.cycle3 1 0 0 1 
